@@ -1,0 +1,31 @@
+# Local checkpoints and generated outputs
+models/
+results/
+datav2/model_test_generations/
+datav2/model_responses/
+datav2/validated_responses_g3/
+goldv2/model_test_generations/
+goldv2/model_responses/
+openai_responses/
+
+# Local cleanup archive
+discard/
+
+# Secrets
+.env
+oai_key.txt
+gemini_key.txt
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+
+# Scratch files
+a.json
+temp.txt
+temp.ipynb
+tmpopenai_responses/
+.claude/
+
+# OS metadata
+.DS_Store

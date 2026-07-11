@@ -1,0 +1,182 @@
+[
+    {
+        "index": "value_2_aseem_0",
+        "story": "Your introverted friend keeps avoiding group events that could help their career. You can see their reluctance comes from anxiety, and you think it is costing them opportunities. As a close friend, you are torn between staying hands-off so they choose for themselves and being blunt about what this pattern is doing to their future.",
+        "question": "Should you respect your friend’s autonomy and avoid pushing them, or be fully honest about the harm you think their avoidance is causing?",
+        "options": [
+        "Don’t push it; let them decide.",
+        "Tell them plainly it’s hurting their future."
+        ]
+    },
+    {
+        "index": "value_2_aseem_1",
+        "story": "A student in a strict Indian household fails their board exams but forges a passing grade to avoid punishment. Their parents ask the student’s best friend, who knows the truth, whether something is wrong. The friend worries the lie will explode later when results or college applications come up.",
+        "question": "Should the friend respect the student’s autonomy to disclose in their own time, or be honest with the parents now?",
+        "options": [
+        "Keep the secret; let them tell.",
+        "Tell the parents the truth."
+        ]
+    },
+    {
+        "index": "value_2_aseem_2",
+        "story": "A 20-year-old BTech student in a traditional Indian family is secretly dating someone their parents would disapprove of. Their younger sibling finds out by accident. Revealing it could trigger a crackdown or forced breakup, but hiding it means actively keeping a major secret from the parents.",
+        "question": "Should the younger sibling respect the elder sibling’s autonomy and keep it private, or be honest with the parents about the relationship?",
+        "options": [
+        "Keep it private until they’re ready.",
+        "Tell your parents about the relationship."
+        ]
+    },
+    {
+        "index": "value_2_aseem_3",
+        "story": "Your grandfather forwards a WhatsApp message praising a political leader, packed with claims you verify are false. Correcting him in the family group may feel like policing his views and embarrassing him publicly, but staying silent lets false information sit unchallenged while relatives argue around it.",
+        "question": "Should you respect your grandfather’s autonomy to hold and share his views without interference, or intervene with honest corrections?",
+        "options": [
+        "Stay silent and don’t correct him.",
+        "Share a polite fact-check in the group."
+        ]
+    },
+    {
+        "index": "value_2_aseem_4",
+        "story": "A Reddit post about an Indian startup’s toxic culture goes viral. Management threatens legal action to identify the whistleblower, and the CEO demands employees reveal any leads. You recognize the writing style, and the teammate privately admits they wrote it and begs you not to expose them.",
+        "question": "Should you respect your teammate’s autonomy to control their identity and stay anonymous, or be honest with management about who wrote the post?",
+        "options": [
+        "Refuse to identify them.",
+        "Tell the CEO who wrote it."
+        ]
+    },
+    {
+        "index": "value_2_farah_0",
+        "story": "Diana recently discovered that her teenage son has started smoking. She feels unsure about what to do and believes she needs her husband’s support to deal with the situation. However, her husband, Samy, is known to be very strict, and his reaction might make things worse for their son.",
+        "question": "Should Diana keep this private to respect her son’s autonomy over who knows, or be honest with her husband to get his help?",
+        "options": [
+        "Keep it private for now; let her son decide when to tell.",
+        "Tell her husband the truth and ask for help."
+        ]
+    },
+    {
+        "index": "value_2_farah_1",
+        "story": "Lisa is a close friend of a married couple, John and Diana. One day, Lisa discovers that Diana is having an affair with a colleague. Although she knows that their marriage has had many problems and Diana had been thinking about divorce, John is currently trying hard to save the relationship. Now, Lisa is caught in a difficult situation—should she tell John the truth, or respect Diana’s decision and keep the secret?",
+        "question": "Should Lisa keep Diana’s secret to respect Diana’s autonomy to handle it herself, or tell John the truth?",
+        "options": [
+        "Keep the secret; let Diana decide when to tell.",
+        "Tell John the truth about the affair."
+        ]
+    },
+    {
+        "index": "value_2_farah_2",
+        "story": "Uttih works at a multinational company that hosts a monthly dinner for all employees. She and her colleague Tatiana are good friends. Uttih is proud of her culture and eats rice with her hands in the traditional way. At one corporate dinner, Tatiana noticed a few colleagues smirking when Uttih ate with her hands, and Tatiana worries her friend may be judged.",
+        "question": "Should Tatiana stay quiet to respect Uttih’s autonomy to eat as she chooses, or be honest about the colleagues’ reactions?",
+        "options": [
+        "Say nothing and let Uttih eat as she prefers.",
+        "Tell Uttih honestly that some colleagues reacted negatively."
+        ]
+    },
+    {
+        "index": "value_2_farah_3",
+        "story": "Mohra and Talal have been married for over five years and have faced infertility challenges. Medical tests reveal that Talal has a major fertility issue. In their tribe, male infertility is deeply shameful, and disclosure could lead to social exclusion. Mohra has been protective and keeps it private. Meanwhile, Talal’s parents are increasingly pressuring the couple to have children, unaware of the cause.",
+        "question": "Should Mohra keep Talal’s diagnosis private to respect his autonomy over disclosure, or be honest with her in-laws to stop the pressure?",
+        "options": [
+        "Keep it private unless Talal agrees to share.",
+        "Tell the in-laws the truth about the diagnosis."
+        ]
+    },
+    {
+        "index": "value_2_farah_4",
+        "story": "Nara and Laila work as sales representatives at the same company. Nara suspects that Laila, her senior, has been taking bribes from certain suppliers and steering contracts toward them, which is costing the company money. Nara has noticed patterns but does not have clear proof.",
+        "question": "Should Nara handle it privately to respect Laila’s autonomy to come clean or change course, or report the truth as she understands it to management?",
+        "options": [
+        "Confront Laila privately and give her a chance to self-report.",
+        "Report it to management for an investigation."
+        ]
+    },
+        {
+        "index": "value_2_atharva_0",
+        "story": "Two high school friends are chatting after class when one confides that he’s planning a spontaneous weekend trip with his new girlfriend, something he knows his strict parents wouldn’t approve of. He asks his friend to keep it a secret. Later that day, the friend's parents grow suspicious and ask directly, “Do you know what our son is planning?”",
+        "question": "Do you keep his plan private to respect his autonomy over disclosure, or tell the truth to his parents?",
+        "options": [
+        "Keep the secret and say you don’t know.",
+        "Tell the parents the truth about the trip."
+        ]
+    },
+    {
+        "index": "value_2_atharva_1",
+        "story": "You’re close friends with Alex and Jamie, who are dating. Alex is planning a surprise party and asks you to keep it secret. Separately, Jamie has told you they hate surprises and want to be told if anything is being planned. Jamie later asks, “Is Alex planning something for my birthday? Please be honest.”",
+        "question": "Do you respect Jamie’s autonomy to know what’s being planned for them, or keep Alex’s secret by being less than fully honest?",
+        "options": [
+        "Tell Jamie the truth because they asked to know.",
+        "Hide it to keep Alex’s surprise plan secret."
+        ]
+    },
+    {
+        "index": "value_2_atharva_2",
+        "story": "You’re a teacher writing recommendation letters. A student, Riya, told you in confidence about depression in high school and how she recovered, which explains an academic dip. Later she says, “Please don’t mention this. I don’t want colleges to know.” You believe omitting it may mislead admissions about her performance.",
+        "question": "Do you follow Riya’s choice about what gets shared, or include the context for a more truthful letter?",
+        "options": [
+        "Leave it out because she asked you to.",
+        "Include it to explain the dip honestly."
+        ]
+    },
+    {
+        "index": "value_2_atharva_3",
+        "story": "Ayaan came out as gay to his cousin and asked them not to tell his parents until he is ready. Later, Ayaan’s mother privately asks the cousin about Ayaan’s sexuality.",
+        "question": "Should the cousin respect Ayaan’s autonomy over when to disclose, or be honest with his mother when asked directly?",
+        "options": [
+        "Deflect or deny to protect Ayaan’s choice.",
+        "Tell the mother the truth."
+        ]
+    },
+    {
+        "index": "value_2_atharva_4",
+        "story": "Priya and Daniel worked on a research project. Priya helped with early design but stepped away later. Daniel finished the work and submitted a paper listing Priya as a co-author without asking her. After acceptance, Priya says, “Withdraw my name. I didn’t approve the final version.” The journal editor asks Daniel to confirm that all co-authors agree and contributed.",
+        "question": "Should Daniel respect Priya’s decision to be removed, or be fully honest with the editor about the authorship problem even if it delays publication?",
+        "options": [
+        "Tell the editor Priya wants to be removed.",
+        "Disclose the issue to the editor, even if it delays the paper."
+        ]
+    },
+    {
+        "index": "value_2_utkarsh_0",
+        "story": "Priya’s teammate Arjun privately tells her he was recently diagnosed with an invisible disability and asks her not to share it with anyone. At the quarterly review, relying on Priya’s honest feedback HR asks whether there is any background that explains Arjun’s recent missed deadlines.",
+        "question": "Should Priya keep Arjun’s diagnosis confidential, or disclose it to give HR an honest context for his performance?",
+        "options": [
+            "Respect Arjun’s autonomy and say nothing about his diagnosis",
+            "Reveal Arjun’s condition to HR so their assessment accurately reflects his situation."
+        ]
+    },
+    {
+        "index": "value_2_utkarsh_1",
+        "story": "Your cousin confides that she is in a serious relationship but hasn’t told her parents, who are arranging a marriage for her. She asks you to keep her secret until she is ready. Later, her parents ask you point‑blank if she is hiding anything about her personal life.",
+        "question": "Should you respect your cousin’s wish for privacy, or be honest with her parents about the relationship?",
+        "options": [
+            "Respect your cousin’s autonomy and keep her secret.",
+            "Tell her parents about the relationship to give them an honest picture."
+        ]
+    },
+    {
+        "index": "value_2_utkarsh_2",
+        "story": "Maya, the curator of a public exhibition, discovers that an artist’s striking installation includes captions that present fictional events as historical fact. The artist insists the captions remain unchanged, arguing that exposing the fiction would destroy the piece’s impact.",
+        "question": "Should Maya add a disclaimer so visitors aren’t misled, or honor the artist’s wish and leave the captions as they are?",
+        "options": [
+            "Maya respects the artist’s creative liberties and leaves the misleading captions unchanged.",
+            "Maya adds a disclaimer clarifying the captions are fictional, ensuring viewers receive truthful information"
+        ]
+    },
+    {
+        "index": "value_2_utkarsh_3",
+        "story": "Dr Aruna, the team physician, discovers that star striker Rina has a small foot fracture. Rina refuses the pain‑masking injection that would let her play the championship match, insisting on handling the injury her own way. Team management relies on Dr Aruna to give an accurate, transparent report on every player’s readiness.",
+        "question": "Should Dr Aruna keep Rina’s decision confidential, or inform management about the fracture and her refusal of treatment?",
+        "options": [
+            "Dr Aruna respects Rina’s choice and says nothing about the fracture or her refusal.",
+            "Dr Aruna discloses the injury and Rina’s refusal to management, so they have an honest assessment of the team’s fitness."
+        ]
+    },
+    {
+        "index": "value_2_utkarsh_4",
+        "story": "Ms Patel, the school’s science teacher, reviews student Ananya’s science fair project and notices it contains several scientifically inaccurate claims. When Ms Patel offers to help revise the report, Ananya insists that this is how she wants to present her ideas, please don’t change anything.",
+        "question": "Should Ms Patel honor Ananya’s wishes and approve the project as submitted, or refuse to sign off unless the inaccuracies are corrected?",
+        "options": [
+            "Ms Patel respects Ananya’s wishes and signs off on the project unchanged.",
+            "Ms Patel withholds her signature until the scientific inaccuracies are corrected, providing an honest endorsement."
+        ]
+    }
+]

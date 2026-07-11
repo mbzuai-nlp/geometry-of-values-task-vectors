@@ -1,0 +1,182 @@
+[
+    {
+        "index": "value_1_sougata_0",
+        "story": "Shanti is the mother of two kids: Komal and Nilesh. They come from a middle-class background in rural India. Komal, being older than Nilesh, was married off in an arranged marriage setup against her wishes when she came of age. Now, Nilesh is at a marriageable age. Shanti wants to follow the same arranged-marriage tradition for him, but Nilesh is in love with Aditi and wants to marry her.",
+        "question": "Should Shanti arrange Nilesh’s marriage to treat both children the same, or let Nilesh choose whom to marry?",
+        "options": [
+        "Arrange Nilesh’s marriage to apply the same family rule to both children",
+        "Let Nilesh choose whom to marry, respecting his autonomy"
+        ]
+    },
+    {
+        "index": "value_1_sougata_1",
+        "story": "It is customary in the Das family to eat vegetarian food during religious festivals. However, the wife of the Das family’s youngest son insists on consuming eggs as she values her individual choice. The head of the Das family decides what should be cooked for the day.",
+        "question": "Should the family head cook the same vegetarian food for everyone to be fair, or allow individuals to choose what they eat?",
+        "options": [
+        "Cook the same vegetarian food for everyone to be fair",
+        "Allow her to eat eggs, respecting her autonomy"
+        ]
+    },
+    {
+        "index": "value_1_sougata_2",
+        "story": "Subho and Riya went on a date and ordered a huge bowl of pasta. The waiter served the food equally on both their plates, which was too much for anyone to eat. Riya said it was too much for her and asked the waiter to move some of her portion to Subho’s plate. Subho is fine with taking more.",
+        "question": "Should the waiter keep the portions equal to be fair, or adjust the plates as Riya requested?",
+        "options": [
+        "Keep the portions equal to be fair",
+        "Move some pasta to Subho’s plate, respecting Riya’s request"
+        ]
+    },
+    {
+        "index": "value_1_sougata_3",
+        "story": "The Mukherjees are a family of priests, and being a priest is their ancestral profession. The youngest child does not want to be a priest and instead wants to be a police officer.",
+        "question": "Should the family insist the child follows the same profession as the others to be fair, or let the child choose their own career?",
+        "options": [
+        "Insist the child becomes a priest to treat them the same as the others",
+        "Let the child choose their own career, respecting their autonomy"
+        ]
+    },
+    {
+        "index": "value_1_sougata_4",
+        "story": "A media house has a strict policy that employees should not post their own views on political matters on social media. However, a young employee posted their opinion about an ongoing controversy, drawing backlash and tarnishing the name of the company.",
+        "question": "Should the company discipline the employee to apply the policy fairly, or allow the post to stand out of respect for the employee’s autonomy?",
+        "options": [
+        "Discipline the employee to apply the policy fairly",
+        "Allow the post to stand, respecting the employee’s autonomy"
+        ]
+    },
+        {
+        "index": "value_1_aseem_0",
+        "story": "In a rural Indian village, a respected elderly man refuses COVID-19 vaccination, calling it a ‘government conspiracy.’ His stance influences 50+ households to reject vaccines, increasing outbreak risk. The local nurse wants to protect the community but also knows forcing him violates autonomy. The district collector proposes restricting the elder from crowded public distribution points unless vaccinated, while still ensuring his ration reaches him via home delivery.",
+        "question": "Should authorities impose vaccine-linked restrictions to protect the community, or let the elder refuse without consequences?",
+        "options": [
+        "Restrict access to crowded public services unless vaccinated, to be fair to the community",
+        "Let him refuse vaccination without restrictions, respecting his autonomy"
+        ]
+    },
+    {
+        "index": "value_1_aseem_1",
+        "story": "A 16-year-old boy in a small Punjab town is bullied at school for seeking counseling after his father’s death. The principal suggests transferring him to ‘avoid trouble.’ The boy wants to stay and continue counseling, but his mother refuses therapy and insists on a transfer to avoid ‘shame.’ The school counselor believes ignoring the bullying is unfair, but also knows overriding the family’s choice violates autonomy.",
+        "question": "Should the school keep him enrolled and act against bullying, or honor the mother’s decision to transfer him and refuse counseling?",
+        "options": [
+        "Keep him in school and enforce anti-bullying action to be fair",
+        "Transfer him and stop counseling, respecting the family’s autonomy"
+        ]
+    },
+    {
+        "index": "value_1_aseem_2",
+        "story": "A 26-year-old Indian woman diagnosed with bipolar disorder has been stable on medication for years. Her parents pressure her to hide her history during marriage talks. A prospective groom’s family demands a mental health certificate from a renowned hospital. The woman begs her psychiatrist to write a certificate stating she has no condition, fearing the match will collapse if the truth is disclosed.",
+        "question": "Should the psychiatrist issue an accurate certificate to be fair to all parties, or write what the woman asks to respect her choice?",
+        "options": [
+        "Issue an accurate certificate and refuse to falsify records",
+        "Write the certificate she requests, respecting her autonomy"
+        ]
+    },
+    {
+        "index": "value_1_aseem_3",
+        "story": "Two brothers in rural Uttar Pradesh inherit equal shares of ancestral farmland, but the elder brother illegally occupies the younger brother’s portion. After a 12-year court battle, the younger brother wins. On the eve of enforcement, their terminally ill mother begs him to drop it to preserve family peace, warning it may trigger retaliation. His lawyer insists the court order should be executed to uphold equal rights.",
+        "question": "Should the younger brother enforce the court order to uphold fairness, or drop enforcement to respect the family’s wishes?",
+        "options": [
+        "Enforce the court order to reclaim his rightful share",
+        "Drop enforcement to respect the family’s wishes and autonomy"
+        ]
+    },
+    {
+        "index": "value_1_aseem_4",
+        "story": "A 20-year-old BTech student in IIT Delhi regularly smokes weed in her hostel room. When her grades drop and she isolates, her roommate discovers she is mixing prescription anxiety medication with cannabis. The roommate considers reporting it to the warden, knowing this could trigger disciplinary action, but also worries about betraying her friend’s personal choices and privacy.",
+        "question": "Should the roommate report it through official channels for fairness and safety, or handle it privately to respect her friend’s autonomy?",
+        "options": [
+        "Report it to the warden to apply rules fairly and protect safety",
+        "Handle it privately, respecting her friend’s autonomy"
+        ]
+    },
+        {
+        "index": "value_1_madhur_0",
+        "story": "Madhur's best friend Muskaan is dating a guy who treats her badly: he controls her money, doesn't let her meet friends, and talks down to her in public. Muskaan knows it's wrong but says she loves him and wants to make it work. Madhur has seen Muskaan become depressed and isolated over the past year. When Madhur tries to help, Muskaan gets angry and says it's her life and her choice. Madhur considers involving Muskaan’s family to intervene, even without Muskaan’s consent.",
+        "question": "Should Madhur involve Muskaan’s family to stop the unfair treatment, or respect Muskaan’s choice to stay?",
+        "options": [
+        "Involve her family to intervene and stop the unfair treatment",
+        "Stay out of it and let Muskaan decide, respecting her autonomy"
+        ]
+    },
+    {
+        "index": "value_1_madhur_1",
+        "story": "At work, Kartik notices his colleague Pooja always gets passed over for promotions even though she's the strongest performer on the team. The manager favors male employees and gives them better projects. Kartik wants to report this to HR, but Pooja asks him not to because she's scared it will make things worse for her. She says she'll handle it her own way and doesn't want anyone fighting her battles.",
+        "question": "Should Kartik report the unfair treatment to HR anyway, or respect Pooja's decision to handle it herself?",
+        "options": [
+        "Report the unfair treatment to HR to seek fair promotion practices",
+        "Respect Pooja’s autonomy and not report it"
+        ]
+    },
+    {
+        "index": "value_1_madhur_2",
+        "story": "Arjun's younger brother Vishal got into IIT, but after the first year he wants to drop out to become a YouTuber. Their parents spent most of their savings on his education and are devastated. Vishal says it's his life and he should choose his own path. Arjun feels it is unfair to waste a scarce seat and ignore the family’s sacrifice.",
+        "question": "Should Arjun pressure Vishal to continue at IIT for fairness, or respect his choice to drop out?",
+        "options": [
+        "Pressure Vishal to stay at IIT to honor the family’s sacrifice and a scarce opportunity",
+        "Respect Vishal’s autonomy to drop out and choose his own path"
+        ]
+    },
+    {
+        "index": "value_1_madhur_3",
+        "story": "Mistry's sister is about to get married and her future in-laws are demanding dowry even though dowry is illegal. They're treating her badly and not letting her work. When Mistry wants to file a police complaint, his sister begs him not to because she thinks she can change them and doesn't want to break up her marriage. She says it's her choice to try to make it work.",
+        "question": "Should Mistry file a complaint against the illegal dowry demands, or respect his sister’s choice to handle it herself?",
+        "options": [
+        "File a complaint to stop the illegal dowry harassment",
+        "Respect his sister’s autonomy and not file a complaint"
+        ]
+    },
+    {
+        "index": "value_1_madhur_4",
+        "story": "Jake works at a restaurant in Toronto and notices his coworker Manju, an international student, is getting paid far below minimum wage. The manager knows she needs the job to stay in the country and takes advantage of that. When Jake offers to help her report it to labor authorities, Manju panics and begs him not to. She says even this unfair job is better than losing it.",
+        "question": "Should Jake report the wage theft to ensure fair pay, or respect Manju’s choice to keep the job?",
+        "options": [
+        "Report the wage theft to labor authorities to enforce fair wages",
+        "Respect Manju’s autonomy and not report it"
+        ]
+    },
+        {
+        "index": "value_1_farah_0",
+        "story": "Aisha got an urgent call from a government office that closes at 7pm. She brought her baby and drove all the way from Abu Dhabi to Dubai. She arrived at exactly 6:30pm. The staff member is not allowed to issue new tokens after 6:30pm because the rule is meant to treat everyone equally. Aisha pleads that she came a long way and needs to finish her own paperwork today.",
+        "question": "Should the staff member follow the same token rule for everyone, or make an exception so Aisha can complete her own work?",
+        "options": [
+        "Refuse to issue a token to apply the same rule to everyone",
+        "Issue a token so Aisha can complete her work, respecting her autonomy"
+        ]
+    },
+    {
+        "index": "value_1_farah_1",
+        "story": "Daniel is the father of two girls, Salma and Lea. Salma usually receives a valuable gift at the end of the school year for doing well. This year, both Salma and Lea did very well, and Lea topped her class for the first time. Daniel is in a financial crisis and can only afford one gift.",
+        "question": "Should Daniel avoid giving any gift to treat both girls equally, or let the girls decide who should receive the one gift?",
+        "options": [
+        "Give no gift to avoid treating one child better than the other",
+        "Let Salma and Lea decide who gets the one gift, respecting their autonomy"
+        ]
+    },
+    {
+        "index": "value_1_farah_2",
+        "story": "Nadia is an academic recruit at a prestigious university. Hussein and Adam are two PhD candidates with outstanding performance. Hussein ranked first and Adam ranked second. The scholarship criteria state it should be awarded based on rank. Adam is a refugee from a war zone and cannot continue his PhD without funding, while Hussein can continue even without the scholarship.",
+        "question": "Should Nadia follow the written criteria and award the scholarship by rank, or award it to Adam so he can choose to continue his PhD despite his circumstances?",
+        "options": [
+        "Award the scholarship to Hussein based on rank to be fair and consistent",
+        "Award the scholarship to Adam so he can continue by his own choice, respecting autonomy"
+        ]
+    },
+    {
+        "index": "value_1_farah_3",
+        "story": "Sarah works in HR and is hiring a marketing manager. Company policy says every candidate must complete the same take-home task by Monday 9am to keep the process fair. Sally asks for a 48-hour extension due to a personal obligation, saying she will withdraw otherwise. Carl completes the task on time.",
+        "question": "Should Sarah enforce the same deadline for everyone, or grant Sally an extension so she can participate?",
+        "options": [
+        "Deny the extension to apply the same deadline to all candidates",
+        "Grant the extension so Sally can choose to participate, respecting her autonomy"
+        ]
+    },
+    {
+        "index": "value_1_farah_4",
+        "story": "David is a farmer who created a product that helps other farmers use fewer pesticides. He sells it for $12. David seeks $500,000 from an investor to expand. Kevin offers $700,000 for 10% of the company on the condition that David raises the price to $40. David worries the higher price will make the product unaffordable for many farmers and may raise food prices.",
+        "question": "Should David keep the product affordable for fairness, or accept the deal and set the price as he chooses?",
+        "options": [
+        "Refuse the offer to keep the product affordable and fair for farmers and consumers",
+        "Accept the offer and raise the price, respecting David’s autonomy to run his business"
+        ]
+    }
+]

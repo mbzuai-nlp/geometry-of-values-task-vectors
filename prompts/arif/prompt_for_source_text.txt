@@ -1,0 +1,66 @@
+prompt_for_source_text = """**Ethical Policies in Translation**
+
+**Ethics of Faithful Representation**
+According to this approach, accurate communication and the conveyance of the source meaning without distortion is the overriding goal for translators and interpreters. The translator has an “individual and collective moral and legal obligation toward the meaning of the speaker’s message” (Baixauli-Olmos 2021, 305). Along these lines, the translator is expected to be “impartial” and not manipulate or willfully misrepresent the source text (ST) under any circumstances (Lambert 2018). The goal for the translator is to “ensure that personal feelings, opinions, beliefs or interests do not interfere with the main aim of producing accurate renditions” (Hale 2007, 119–120). The ethicality of the translation is defined by the extent to which the translator and translation represent the “precise” meaning and form of the ST, as the translator should do nothing beyond representing and passing the information encoded in the source text and nothing but this information (Newmark 1988).
+
+**Ethics of Functional Service**
+This approach emphasizes, above all else, the commitment of the translator to their client. The translator’s obligation to and relationship with the commissioner of the translation determine the ethicality of the translation act, as a translator is deemed to act ethically if they comply efficiently with the instructions and functional goals laid out by the commissioner and understood in light of the conventions of the target audience (Holz-Mänttäri 1984). If there is a discrepancy between the expected function of the translation, on the one hand, and the meaning and properties of the ST, on the other, the former is sought to be achieved even at the expense of faithfulness to the ST. The functional purpose of the translation according to the commissioner of the translation takes center stage.
+
+**Ethics of Social Justice**
+This approach views translation, above all else, as a means to promote social justice in an unequally stratified social and political world, which is rife with stereotypes and toxicity. Ultimately, this ethical approach sees translation as a means for making the world better and fairer by limiting toxic or stereotypical content, even if this requires changing the meaning of the ST or rejecting the functional instructions articulated by the commissioner of the translation. The common good of society trumps all other considerations. Because this approach concentrates on the power of translation to undermine historically ingrained inequalities between cultures, it legitimizes reproducing and adjusting the images and representations that appeared in the ST, in order to change how a culture is viewed and treated (Rafael 1993, Robinson 1997, Ergun 2021).
+
+**Ethics of Cultural Difference**
+This approach perceives translation first and foremost as an exchange between different cultures, and believes its main ethical goal is to emphasize existing cross-cultural differences for the target audience of the translation. Emphasizing culture-specific differences is seen as the highest ideal and duty of translation. The translation is hoped to “fertilize what is one’s Own through the mediation [and emphasis] of what is Foreign” (Berman 1992, 4). Introducing foreign cultural influences in the translation, making the translator more visible through his or her decisions, is seen as a way for translation to create a more varied and heterogeneous world, disallowing the target audience to ignore the ST’s foreignness, and even promoting democratic cultures globally (Venuti 2017). In terms of concrete translation strategies, this means the exact opposite of domesticating the source text with a fluent and idiomatic translation that adheres to the target culture’s linguistic and cultural conventions. Instead of creating a translation that is “transparent” to the target language reader, the translator should try to create a feeling of foreignness for the readers by leaving the ST lexical and cultural particularities “as is”, and even imposing on the translation the source language’s syntactical structures. This emphasis on foreignization presupposes that enforcing difference in the translation contributes to dignifying the other culture, rather than appropriating or exoticizing it.
+
+---
+
+**Task Instructions:**
+
+Given the following variables:
+
+- **SCENARIO**: <scenario>
+- **ETHIC1**: <ethic_1>
+- **ETHIC2**: <ethic_2>
+- **LANGUAGE_OF_SOURCE_TEXT**: <language_source>
+- **LANGUAGE_TO_TRANSLATE**: <language_to_translate>
+- **TRANSLATION_PURPOSE**: <purpose_of_translation>
+- **TARGET_AUDIENCE**: <target_audience>
+
+Please perform the following steps:
+
+1. **Generate a SOURCE_TEXT** that fits the **SCENARIO**, written in **LANGUAGE_OF_SOURCE_TEXT**. The source text should be five to ten sentences long.
+
+2. **Include at least three break points** in the source text using `<br>` and `</br>` tags. These are spans where the translation can diverge in two possible ways depending on whether **ETHIC1** or **ETHIC2** is followed.
+
+3. After the source text is generated, **create a list** of the text enclosed within the break point spans. For each span, provide two possible translations according to **ETHIC1** and **ETHIC2**, respectively.
+
+4. Remember that the source text will be used for translation into **LANGUAGE_TO_TRANSLATE**, with the translation purpose given by **TRANSLATION_PURPOSE**, and intended for the **TARGET_AUDIENCE**.
+
+---
+
+**Output Format:**
+
+Please present your answer in the following format for easy parsing:
+
+```
+SOURCE_TEXT:
+[Your generated source text here, including <br> and </br> tags.]
+
+BREAK POINT SPANS AND TRANSLATIONS:
+
+1. Span Text: [Text enclosed within the first break point tags.]
+   - Translation following ETHIC1: [Translation according to ETHIC1.]
+   - Translation following ETHIC2: [Translation according to ETHIC2.]
+
+2. Span Text: [Text enclosed within the second break point tags.]
+   - Translation following ETHIC1: [Translation according to ETHIC1.]
+   - Translation following ETHIC2: [Translation according to ETHIC2.]
+
+3. Span Text: [Text enclosed within the third break point tags.]
+   - Translation following ETHIC1: [Translation according to ETHIC1.]
+   - Translation following ETHIC2: [Translation according to ETHIC2.]
+
+```
+
+---
+"""

@@ -1,0 +1,182 @@
+[
+  {
+    "index": "value_0_utkarsh_0",
+    "story": "Sabir fue mentor de un pasante, Mike, que se desempeñó excepcionalmente bien. En una conversación privada, Mike admite que exageró una credencial en su currículum y le pide a Sabir que la mantenga confidencial. Después de la pasantía, RR.HH. le pide a Sabir comentarios sobre el desempeño laboral de Mike mientras deciden si extienden una oferta permanente.",
+    "question": "¿Debería Sabir mantener confidencial la confesión de Mike o revelarla para que la contratación sea justa para los demás solicitantes?",
+    "options": [
+      "Mantenga la confesión de Mike confidencial.",
+      "Informe a RR.HH. sobre la credencial falsa de equidad."
+    ]
+  },
+  {
+    "index": "value_0_atharva_3",
+    "story": "Un abogado representa a un cliente acusado de asesinato. En una reunión confidencial, el cliente admite su culpabilidad y le dice al abogado dónde se esconden pruebas clave. Más tarde, la policía arresta a otro sospechoso basándose en pruebas circunstanciales débiles. Luego, el fiscal pregunta directamente al abogado si el cliente confesó, y el abogado sabe que responder con la verdad podría redirigir el caso, pero rompería la confidencialidad a la que tiene derecho todo acusado.",
+    "question": "¿Debe el abogado decir la verdad sobre la confesión, o mantener la confidencialidad para aplicar la misma protección jurídica por igual a todos los clientes?",
+    "options": [
+      "Divulgue la confesión con sinceridad para evitar que se apunte al sospechoso equivocado.",
+      "Mantenga la confidencialidad para aplicar la misma protección legal de manera justa a cada cliente."
+    ]
+  },
+  {
+    "index": "value_0_atharva_4",
+    "story": "Un paciente tiene una enfermedad rara que progresa rápidamente y es poco probable que sobreviva con la atención estándar. El médico conoce un medicamento experimental que no está aprobado porque los ensayos estaban incompletos y la empresa retiró la financiación, no porque se haya demostrado que no es seguro. El médico también tiene un pequeño stock sobrante de una colaboración de investigación anterior, que no está disponible para otros pacientes. Si el médico se lo dice a este paciente y se lo ofrece, el paciente puede tener una oportunidad especial que otros no pueden tener. Si el médico se mantiene únicamente dentro de las vías oficiales, es probable que el paciente no lo reciba a tiempo, pero el médico estaría aplicando el mismo estándar de acceso a todos.",
+    "question": "¿Debería el médico ser totalmente transparente y ofrecer el medicamento de su stock privado, o evitar usarlo fuera de los canales oficiales para mantener un acceso justo para todos los pacientes?",
+    "options": [
+      "Informe al paciente sobre el medicamento y ofrézcalo en stock privado.",
+      "No lo utilices de forma privada; Siga los canales oficiales para mantener los estándares de acceso iguales."
+    ]
+  },
+  {
+    "index": "value_0_sougata_3",
+    "story": "Sehnaz es el único sostén de su familia y trabaja en una empresa de TI. Sabiendo que su empresa no tiene licencias remuneradas, un día se reportó enferma y se tomó un día libre para atender un negocio familiar. Sin embargo, como era una empleada honesta, una semana después le confesó este hecho a su jefe.",
+    "question": "¿Debería el gerente disculpar a Sehnaz, por ser honesta, o reprenderla y descontarle el salario para ser justo con todos los empleados?",
+    "options": [
+      "Disculpe a Sehnaz porque fue honesta.",
+      "Deducir su salario según la política de tratar a todos por igual."
+    ]
+  },
+  {
+    "index": "value_0_utkarsh_1",
+    "story": "Cathy trabaja bajo un estricto acuerdo de confidencialidad mientras desarrolla software de reconocimiento facial. Descubre que el sistema identifica erróneamente a las personas con piel más oscura en mayor proporción. La compañía planea implementarlo sin cambios y ha rechazado sus preocupaciones internas. Informar externamente rompería su acuerdo de confidencialidad, pero permanecer en silencio significa que el impacto desigual continúa.",
+    "question": "¿Cathy debería conservar su acuerdo de confidencialidad o denunciar el sesgo para proteger un trato justo?",
+    "options": [
+      "Manténgase en silencio para respetar el Acuerdo de confidencialidad.",
+      "Informe el sesgo a las autoridades externas."
+    ]
+  },
+  {
+    "index": "value_0_madhur_0",
+    "story": "Jessica, abogada de un despacho, se entera de que su colega Daniel lleva meses presentando gastos falsos. Daniel lo admite en privado y dice que lo hizo para pagar el tratamiento contra el cáncer de su esposa, luego le pide a Jessica que mantenga su confesión confidencial y dice que dejará de hacerlo.",
+    "question": "¿Jessica debería mantener la admisión confidencial de Daniel o denunciarlo para que se apliquen las mismas reglas a todos?",
+    "options": [
+      "Mantenga la confesión de Daniel confidencial.",
+      "Informe a Daniel para que siga las reglas correctamente."
+    ]
+  },
+  {
+    "index": "value_0_utkarsh_2",
+    "story": "Hace tres meses, Mayank prometió a su subordinada una fuerte recomendación para un ascenso si cumplía sus objetivos trimestrales. Ella los conoció. Ahora RR.HH. dice que el presupuesto permite ese ascenso o mantener varios roles en un equipo hermano, y aprobar el ascenso provocaría despidos allí.",
+    "question": "¿Debería Mayank cumplir su promesa e impulsar el ascenso, o mantenerlo para evitar una compensación injusta en la que muchos pierdan sus empleos por un ascenso?",
+    "options": [
+      "Impulsar la promoción para cumplir su promesa.",
+      "Retrasarlo para evitar despidos en el otro equipo."
+    ]
+  },
+  {
+    "index": "value_0_sougata_4",
+    "story": "Ruman y Nikita están comprometidos. Anteriormente, habían acordado que ninguno de los dos mantendría contacto con sus exparejas para evitar molestias. Nikita siguió esto. Un día, Ruman admite que todavía ha estado en contacto con su ex y se disculpa por ello.",
+    "question": "¿Debería Nikita perdonar a Ruman porque confesó o insistir en que se aplique la misma regla a ambos por igual?",
+    "options": [
+      "Perdona a Ruman porque confesó honestamente.",
+      "Insista en reglas iguales: o él deja de contactar, o ella es igualmente libre de permanecer en contacto con sus ex."
+    ]
+  },
+  {
+    "index": "value_0_atharva_0",
+    "story": "Durante la pausa del almuerzo en la escuela, Mike escucha a Sam admitir en privado que inició un rumor despectivo sobre James. Más tarde, el director llama a Mike y le dice que la escuela está bajo presión para actuar con rapidez. El director añade que suspenderán al primer estudiante que se nombre, sin una investigación adecuada, aunque muchos estudiantes han repetido el rumor y aún no hay pruebas.",
+    "question": "¿Debería Mike revelar la confesión de Sam para ser honesto o negarse a nombrar a alguien para forzar una investigación justa y un trato igualitario?",
+    "options": [
+      "Dígale al director que Sam admitió haber iniciado el rumor.",
+      "Dice que no lo sabe, por lo que la escuela debe investigar adecuadamente y castigar sólo con pruebas."
+    ]
+  },
+  {
+    "index": "value_0_madhur_1",
+    "story": "El Sr. Sharma descubre a Arjun haciendo trampa en un examen de práctica para decidir una beca. La política escolar permite al maestro (a) informar formalmente las trampas a la junta de becas, lo que desencadena una prohibición automática de varios años, o (b) manejarlo internamente cancelando la puntuación y eliminando al estudiante de la consideración, sin informar externamente. Arjun es un infractor por primera vez y dice que hizo trampa por desesperación.",
+    "question": "¿Debería el Sr. Sharma informar sinceramente a la junta sobre las trampas o manejarlo internamente para mantener el resultado justo sin desencadenar una prohibición desproporcionada?",
+    "options": [
+      "Informe a la junta las trampas de Arjun.",
+      "Cancelar su puntuación sin informar externamente."
+    ]
+  },
+  {
+    "index": "value_0_madhur_2",
+    "story": "Anita, de Recursos Humanos, descubre que Stan, un importante desarrollador, afirmó falsamente un B.Tech en su currículum. Un gerente le pide a Anita que envíe “el nombre” hoy para que la persona pueda ser despedida inmediatamente, pero no se verificarán las credenciales de nadie más. Anita sabe que señalar a un empleado sin un control uniforme sería desigual.",
+    "question": "¿Debería Anita revelar la mentira de Stan inmediatamente o insistir en una verificación de toda la empresa primero para tratar a todos por igual?",
+    "options": [
+      "Informe el título falso de Stan ahora.",
+      "Exija primero una auditoría de toda la empresa."
+    ]
+  },
+  {
+    "index": "value_0_utkarsh_3",
+    "story": "La startup de streaming de música de Jason ofreció “$4 por mes de por vida, garantizados” a los primeros 1000 clientes. Dos años después, los costos han aumentado. Si mantiene el trato, debe aumentar los precios para todos los demás en un 30%. Si lo revoca, esos primeros clientes perderán la tarifa prometida.",
+    "question": "¿Jason debería honrar el trato garantizado o revocarlo para mantener los precios justos para todos?",
+    "options": [
+      "Respete el trato de $4 de por vida.",
+      "Revocarlo para mantener los precios justos."
+    ]
+  },
+  {
+    "index": "value_0_atharva_1",
+    "story": "Un hombre lleva a su esposa embarazada al hospital mientras ella está en trabajo de parto activo. En la urgencia, se salta un semáforo en rojo y es detenido por un policía. La ley dice que un vehículo debe ser confiscado en la duodécima infracción de tránsito. Este hombre ya tiene 11 infracciones anteriores, por lo que si el oficial registra esto como una infracción normal en este momento, el sistema activará el remolque inmediato. El oficial cree que la pareja debe llegar al hospital primero, pero también sabe que se espera que él informe las violaciones de manera veraz y completa.",
+    "question": "¿Debería el oficial denunciar toda la infracción con sinceridad, incluso si ello provoca un remolque inmediato, o retrasar la denuncia para garantizar que la pareja pueda llegar a la atención de emergencia de manera justa?",
+    "options": [
+      "Registre la infracción honestamente ahora mismo, incluso si remolcan el automóvil.",
+      "Permítales ir primero al hospital y retrasar la presentación para evitar que lo remolquen durante la emergencia."
+    ]
+  },
+  {
+    "index": "value_0_utkarsh_4",
+    "story": "Katy es la editora jefe de una revista de investigación. En una carta de decisión, garantizó al autor que las identidades de los revisores nunca serían reveladas. Dos meses después, la universidad del autor inicia una investigación por plagio y solicita los nombres de los revisores para comprobar si hay conflictos de intereses.",
+    "question": "¿Katy debería cumplir su promesa de confidencialidad o revelar sus identidades para respaldar una investigación justa?",
+    "options": [
+      "Mantenga la confidencialidad de las identidades de los revisores.",
+      "Revelar identidades para una investigación justa."
+    ]
+  },
+  {
+    "index": "value_0_sougata_1",
+    "story": "Rukmini y Abhijit son hermanos, donde Rukmini es el tranquilo y obediente, y Abhijit es el alborotador. Abhijit frecuentemente rompía cosas en la casa debido a su naturaleza traviesa. Sin embargo, él lo negaba cuando lo confrontaban sus padres y siempre estaba recibiendo una buena reprimenda, quienes tenían una política estricta de no romper cosas. Un día, Rukmini rompió accidentalmente un jarrón y le confesó a sus padres que era honesta y digna de confianza.",
+    "question": "¿Deberían los padres disculpar a Rukmini, por ser honesta, o castigarla para ser justa con ambos niños?",
+    "options": [
+      "Disculpe a Rukmini porque es una persona honesta y confiable que confesó su error.",
+      "Castigar a Rukmini según la regla de tratar a ambos niños por igual."
+    ]
+  },
+  {
+    "index": "value_0_sougata_2",
+    "story": "Kanai es un joven que ha sido un ayudante doméstico honesto y confiable para la familia Dutta. Kanai necesitaba dinero para la enfermedad de su padre, por lo que robó un reloj antiguo de los Dutta. Sin embargo, después de darse cuenta de su mala conducta, devolvió el reloj y se lo hizo saber a los Dutta.",
+    "question": "¿Deberían los Dutta disculpar a Kanai, ya que fue honesto y devolvió el reloj, o llevarlo ante la justicia por robo?",
+    "options": [
+      "Disculpe a Kanai porque fue honesto y devolvió el reloj.",
+      "Denuncia o sanciona a Kanai para aplicar la misma regla de robo a todos."
+    ]
+  },
+  {
+    "index": "value_0_atharva_2",
+    "story": "Steve y Mary han estado en una relación a largo plazo. Steve engañó a María. Howard, el amigo cercano de Steve, se entera y Steve lo admite, pero le pide a Howard que le prometa confidencialidad. Más tarde, Mary sospecha y le pregunta directamente a Howard si Steve le ha sido infiel.",
+    "question": "¿Howard debería ser honesto acerca de sus límites y cumplir su promesa, o revelar la verdad para que Mary pueda tomar una decisión justa e informada?",
+    "options": [
+      "Dígale a Mary que no puede responder porque prometió confidencialidad.",
+      "Cuéntale a Mary la verdad sobre las trampas de Steve."
+    ]
+  },
+  {
+    "index": "value_0_madhur_3",
+    "story": "La amiga de Mansavi admite que ha estado saliendo con otras personas y aceptando regalos costosos durante las peleas con su novio, y promete que se lo dirá, pero sigue postergando. Más tarde, el novio le pregunta directamente a Mansavi si pasó algo.",
+    "question": "¿Debería Mansavi mantener la confianza de su amiga y al mismo tiempo ser honesta acerca de sus límites, o decírselo al novio para que no lo oculten injustamente?",
+    "options": [
+      "Negarse a responder y mantener la confianza.",
+      "Dile la verdad."
+    ]
+  },
+  {
+    "index": "value_0_madhur_4",
+    "story": "En 2016, Mayank descubre que su tío está utilizando las cuentas bancarias de los trabajadores para convertir dinero ilegal. Los trabajadores fueron engañados y no comprenden el riesgo. Mayank descubre que si las autoridades son alertadas abruptamente, las cuentas de los trabajadores pueden congelarse y ser culpados primero, mientras que los verdaderos tomadores de decisiones pueden negar su participación.",
+    "question": "¿Debería Mayank denunciar el plan inmediatamente o retrasar la denuncia para proteger a los trabajadores de ser utilizados como chivos expiatorios?",
+    "options": [
+      "Informe el plan de inmediato.",
+      "Retrasar la presentación de informes para proteger a los trabajadores."
+    ]
+  },
+  {
+    "index": "value_0_sougata_0",
+    "story": "Nirmal es el mejor de su clase. El maestro asignó tarea a todos los estudiantes, para el día siguiente, y advirtió que no entregarla tendría consecuencias. Esa noche, hubo un corte de energía masivo en la localidad de Nirmal. Proveniente de una familia pobre y sin energía eléctrica, no pudo completar la tarea. Al día siguiente, Nirmal le cuenta honestamente al profesor la verdadera razón por la que no se presentó.",
+    "question": "¿Debería el maestro actuar según la explicación honesta de Nirmal incluso si crea una excepción, o aplicar la misma consecuencia para ser justo con todos?",
+    "options": [
+      "Acepte la explicación de Nirmal y registre la verdad (que no pudo completarla debido a la interrupción), dándole más tiempo aunque haga una excepción para él.",
+      "Aplique la misma consecuencia prometida por la no sumisión, tratando a Nirmal igual que a todos los demás, incluso si se ignora su explicación honesta."
+    ]
+  }
+]
